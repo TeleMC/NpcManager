@@ -1,0 +1,6 @@
+name: NpcManager
+main: leeapp\npcmanager\NPCManager
+version: 0.0.1
+api: [3.2.0, 3.2.3, 4.0.0]
+author: TeleMC
+description: Tele project NPC manager
